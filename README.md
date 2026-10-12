@@ -81,9 +81,9 @@ The global corporate philanthropy, workplace giving, and CSR software sector rep
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source projects for constituent relationship management (CRM), grant tracking, donation processing, and volunteer coordination, ranked in descending order by GitHub community star count:
+Below are top open-source projects for constituent relationship management (CRM), grant tracking, donation processing, and volunteer coordination, ranked in descending order by GitHub community Stars_Count:
 
-| 📦 Repository & Link | ⭐ GitHub Stars (Sorted Descending) | 📜 License | 🎯 Category / Capabilities |
+| 📦 Repository & Link | ⭐ GitHub_Stars (Sorted Descending) | 📜 License | 🎯 Category / Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[twentyhq/twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | Modern CRM alternative to Salesforce with clean GraphQL/REST APIs, customizable data pipelines for donor tracking, and enterprise-grade self-hosting. |
 | **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Full enterprise ERP featuring a dedicated **Non Profit Module** with donor management, membership handling, grant lifecycle tracking, and accounting integration. |
@@ -146,7 +146,7 @@ Contributions from CSR practitioners, open-source maintainers, and non-profit le
 2. 🌿 **Create a descriptive branch:** `git checkout -b feature/add-new-giving-tool`
 3. ✏️ **Add your platform or project:**
    - For SaaS tools: include verified starting tier pricing, free tier/trial limits, and corporate scale.
-   - For Open-Source projects: provide the repository link, star badge, license, and primary capabilities.
+   - For Open-Source projects: provide the repository link, Stars_Badge, license, and primary capabilities.
 4. 🧪 **Check formatting:** ensure alphabetical or sorted consistency and verify markdown table links.
 5. 🚀 **Submit a Pull Request (PR)** with a concise summary of why the tool should be added.
 
