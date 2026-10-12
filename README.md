@@ -31,77 +31,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
 
 
+## Sector Overview & Market Dynamics
+
+The global corporate philanthropy, giving, and CSR software sector represents an estimated market size of **$1.1B – $1.2B** (projected to reach over **$2B+** by the early 2030s at ~9–10% CAGR), sitting alongside a broader nonprofit tech ecosystem exceeding **$4.9B**. The sector is **moderately to highly fragmented** rather than winner-take-all: while mega-enterprise titans (Salesforce, Blackbaud, and PE-backed Benevity/Bonterra) dominate Global 2000 corporate matching and complex multi-region compliance, significant fragmentation persists across mid-market employee engagement, point volunteering solutions, and regional donation distribution networks.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Philanthropy Cloud](https://www.salesforce.org/)**  
-
-  Corporate impact platform created in partnership with United Way. Connects employees to 1.4M+ nonprofits with AI-driven personalized recommendations via Salesforce Einstein. Features giving, volunteering, campaign management, and real-time impact reporting.
-
-
-
-- **[Benevity](https://benevity.com/)**  
-
-  Enterprise Impact Platform unifying employee giving, volunteering, grants management, and ERG tools. Built on nearly two decades of compliance infrastructure: continuous validation of 2.5M nonprofits, fraud detection, automated sanctions screening, and global disbursement in 200+ countries. AI-native with Match Assurance and AI Grant Summaries.
-
-
-
-- **[Bright Funds (Submittable)](https://www.yourcause.com/)**  
-
-  Workplace giving and volunteering platform by WizeHive/Submittable. Features intuitive dashboard, donation matching, volunteer tracking, curated funds, and impact reporting. Microsoft Teams integration available.
-
-
-
-- **[Deed](https://www.deed.com/)**  
-
-  Corporate giving and volunteering platform enabling employees to donate, volunteer, and match gifts. Focuses on streamlined user experience and social impact engagement.
-
-
-
-- **[Submittable](https://www.submittable.com/)**  
-
-  Flexible submission management platform for grants, awards, scholarships, and contests. Features multi-round review workflows, concealed review for bias reduction, reviewer voting/feedback, and fund distribution to applicants.
-
-
-
-- **[YourCause by Blackbaud](https://www.yourcause.com/)**  
-
-  CSR platform with integrated grantmaking and employee engagement. Features 7.5+ million global nonprofits, 26 languages, generative-AI tools for CSR professionals, and 60+ standards reports. SOC1 and SOC2 Type 2 certified.
-
-
-
-- **[Alaya by Benevity](https://benevity.com/)**  
-
-  Employee engagement platform being unified into Benevity's primary Employee Engagement product. Alaya will sunset on December 15, 2026, with companies and employees migrating to Benevity.
-
-
-
-- **[Goodera](https://www.goodera.com/)**  
-
-  Corporate volunteering platform connecting employees to 50K+ nonprofits across 100+ countries. Hosts curated virtual, in-person, and hybrid experiences with full logistics management, 24/7 support, and impact reporting.
-
-
-
-- **[CyberGrants](https://www.cybergrants.com/)**  
-
-  Grant management system used by organizations including the NCUA for electronic grant and loan applications. Automates grant lifecycle workflows.
-
-
-
-- **[Millie](https://www.millie.com/)**  
-
-  Corporate giving and employee engagement platform focused on simplifying workplace philanthropy and volunteer programs.
+| Platform | Company Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Philanthropy Cloud](https://www.salesforce.org/)** | ~$200B+ Market Cap ($41.5B FY26 Rev) | Starts at $60/user/month (Enterprise Edition) | 30-day free trial (Full test environment with sample data); 10 free core licenses for eligible non-profits via Power of Us | Corporate impact platform created with United Way. Connects employees to 1.4M+ nonprofits with AI-driven personalized recommendations via Einstein. |
+| **[YourCause by Blackbaud](https://www.yourcause.com/)** | ~$2.0B Market Cap ($1.18B Rev) | Custom enterprise contracts starting at ~$15,000/year | No corporate free trial; Free forever for registered 501(c)(3) charities on the YourCause Nonprofit Vetting Portal | CSR platform with integrated grantmaking and employee engagement. Features 7.5M+ global nonprofits, 26 languages, and SOC 1/2 Type 2 certification. |
+| **[Benevity](https://benevity.com/)** | $1.1B+ Valuation (~$150M–$190M Rev) | Tiered enterprise contracts starting at ~$12,000/year + 2–3% donation fees | No corporate free trial (Guided live product demo only); Free forever registration and profile management on Benevity Causes Portal | Enterprise Impact Platform unifying employee giving, volunteering, grants management, and ERG tools across 200+ countries with Match Assurance and AI Grant Summaries. |
+| **[Alaya by Benevity](https://benevity.com/)** | $1.1B+ Valuation (Part of Benevity) | Integrated into Benevity platform contracts | No self-serve free trial (Demo on request); Free for verified charity partners | Employee engagement and volunteering platform unified into Benevity's core product suite (migrating full base to Benevity). |
+| **[CyberGrants](https://www.cybergrants.com/)** | $1.0B+ Backing (Part of Bonterra) | Starts at ~$4,000/year (plus implementation services) | No corporate free trial (Custom interactive sandbox upon request); Free forever access to Bonterra/CyberGrants FrontDoor charity portal | Grant management and employee giving system used by large corporations and government bodies (NCUA) for electronic grant workflows. |
+| **[Submittable](https://www.submittable.com/)** | ~$500M–$1B Est. Valuation (~$33M–$66M Rev) | Starts at ~$3,000/year (Annual starter package) | No administrative free trial (Guided sales demo only); Free forever for submitters and grant applicants to apply and track submissions | Submission and grant management platform for grants, corporate giving, awards, and employee matching with concealed review bias reduction. |
+| **[Bright Funds (Submittable)](https://www.yourcause.com/)** | ~$500M–$1B (Submittable subsidiary) | Starts at ~$2/employee/month (or ~$2,400/year base) | 14-day free trial on select standard plans; Free submission and disbursement profile for registered nonprofits | Workplace giving and volunteering platform featuring donation matching, volunteer tracking, curated disaster funds, and Microsoft Teams integration. |
+| **[Goodera](https://www.goodera.com/)** | ~$25M–$29M Raised (Private) | Starts at ~$5/user/month (Custom event & program tiers) | No corporate self-serve free trial (Custom interactive demo available); Free forever for 50,000+ registered nonprofit partners hosting events | Corporate volunteering platform connecting employees to 50K+ nonprofits across 100+ countries with hosted virtual, in-person, and hybrid experiences. |
+| **[Deed](https://www.deed.com/)** | ~$13.1M Raised (Series A, acquired by Bonterra) | Custom subscriptions starting at ~$5,000/year + partner processing | No corporate free trial (Product demo available); Free profile and donor receipting for registered nonprofits via PayPal Giving Fund/GlobalGiving | Modern corporate giving and volunteering platform with gamified employee social impact engagement and automated corporate donation matching. |
+| **[Millie](https://www.millie.com/)** | ~$1.1M–$5M ARR (Early Stage PBC) | Headcount-based starting at ~$9,101/year for 100 employees + 1.5% DAF fee | No self-serve trial (Instant interactive proposal & pricing calculator); Free profile and grant receipting for registered 501(c)(3) charities | Corporate giving and employee engagement platform focused on budget-friendly workplace philanthropy with native Slack integration. |
 
 
 
